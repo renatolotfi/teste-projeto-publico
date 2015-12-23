@@ -1,6 +1,6 @@
 <?php
 
-// Show all information, defaults to INFO_ALL
+// Show all information, defaults to INFO_ALL teste
 phpinfo();
 
 // Show just the module information.
